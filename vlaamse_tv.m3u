@@ -9,7 +9,7 @@ https://live-w.lwc.vrtcdn.be/groupc/live/dbe4e3a1-9fc4-4f3b-b703-c1c6c72abc07/li
 
 # Medialaan – commerciële zenders
 #EXTINF:-1 tvg-id="vtm" tvg-name="VTM" group-title="Medialaan",VTM
-http://apple.news.stream.vmmacdn.be/iphone/iphone_high.m3u8
+http://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 
 #EXTINF:-1 tvg-id="vier" tvg-name="Vier" group-title="Medialaan",Vier
 https://streaming-medialaan-cdp.triple-it.nl/VIER_live/chunklist.m3u8
